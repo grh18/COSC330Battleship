@@ -26,5 +26,5 @@ Incorporate the networking code and test the application across two computers.
 > _Instructions to be added._
 
 ## Authors
-> Gilberto Rodriguez-Hernandez
-> Ryden Sydnor
+- Gilberto Rodriguez-Hernandez
+- Ryden Sydnor
